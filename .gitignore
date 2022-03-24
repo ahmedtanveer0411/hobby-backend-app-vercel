@@ -1,0 +1,12 @@
+# Outputs
+dist/
+.vscode/
+
+# Misc
+node_modules/
+package-lock.json
+
+# Mac OSX Finder files.
+**/.DS_Store
+.DS_Store
+.idea
